@@ -21,3 +21,6 @@ Ruohu Lin
 Qing Shi  
 Ruimin Yin  
 Rui Zhou  
+
+## Acknowledgments
+[react-note-taking-app](https://github.com/WebDevSimplified/react-note-taking-app)
