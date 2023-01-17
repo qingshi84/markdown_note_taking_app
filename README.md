@@ -17,7 +17,7 @@ To Start the App:
 
 ## Team Members
 
-Ruohu Lin
-Qing Shi
-Ruimin Yin
-Rui Zhou
+Ruohu Lin  
+Qing Shi  
+Ruimin Yin  
+Rui Zhou  
