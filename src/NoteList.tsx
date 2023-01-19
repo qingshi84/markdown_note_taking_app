@@ -71,7 +71,7 @@ export function NoteList({
             </Link>
             <Button
               onClick={() => setEditTagsModalIsOpen(true)}
-              variant="outline-secondary"
+              variant="outline-primary"
             >
               Edit Tags
             </Button>
